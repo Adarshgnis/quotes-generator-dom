@@ -1,0 +1,9 @@
+.app-wrapper {
+    /* background-color: blueviolet; */
+    width: 50%;
+    margin: 0 auto;
+}
+
+#quote-container {
+    background-color: blueviolet;
+}
