@@ -5,7 +5,7 @@
 
 .app-wrapper {
     /* background-color: blueviolet; */
-    width: 50%;
+    width: 550px;
     margin: 0 auto;
 }
 
@@ -36,4 +36,33 @@ hr {
 #author {
     color: white;
     font-size: 1.3rem;
+}
+
+#controls {
+    margin-top: 40px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+
+.buttons {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 5px;
+    margin: 0 10px;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;    
+}
+
+input, textarea {
+    margin: 0 5px 10px 5px;
 }
