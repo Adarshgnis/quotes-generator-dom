@@ -4,7 +4,6 @@
 }
 
 .app-wrapper {
-    /* background-color: blueviolet; */
     width: 550px;
     margin: 0 auto;
 }
@@ -40,10 +39,6 @@ hr {
 
 #controls {
     margin-top: 40px;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
 }
 
 .buttons {

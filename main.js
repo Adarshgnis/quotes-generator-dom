@@ -23,7 +23,7 @@ authorInput.addEventListener('keyup', function(a){
 })
 
 
-
+// download image
 downloadbtn.addEventListener('click', function() {
     html2canvas(container).then(canvas => {
         let a = document.createElement("a")
